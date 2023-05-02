@@ -1,0 +1,141 @@
+body {
+  font-family: blue;
+}
+
+footer {
+  text-align: center;
+}
+.navbar {
+  padding: 0;
+}
+
+.navbar li {
+  font-weight: bolder;
+  color: white;
+  padding: 0;
+}
+.fa-connectdevelop {
+  color: black;
+  font-size: 40px;
+}
+
+.fa-connectdevelop:hover {
+  color: white;
+}
+
+#navbarNav {
+  justify-content: flex-end;
+  margin-right: 6.25%;
+  font-family: "Maven Pro", sans-serif;
+  font-size: 25px;
+}
+
+.navbar-nav li {
+  padding: 0 10px;
+}
+
+.navbar-toggler-icon {
+  font-weight: bolder;
+  color: white;
+}
+
+.title-homepage h1 {
+  font-size: 100px;
+  color: #353cf7;
+  font-family: "Tenor Sans", sans-serif;
+}
+
+.homepage-row {
+  font-family: "Maven Pro", sans-serif;
+}
+
+.column-developer {
+  margin-top: 250px;
+  text-align: center;
+}
+
+.column-developer h2 {
+  font-size: 50px;
+  margin-bottom: 30px;
+}
+
+.column-developer h5 {
+  color: #e6cd7e;
+  margin-top: 15px;
+}
+
+.column-developer p {
+  padding: 10px;
+  font-family: "Tenor Sans", sans-serif;
+}
+
+.column-image {
+  text-align: center;
+}
+
+.img-portfolio {
+  width: 350px;
+}
+
+.column-coder {
+  margin-top: 250px;
+  text-align: center;
+}
+
+.column-coder h2 {
+  font-size: 50px;
+  margin-bottom: 30px;
+}
+
+.column-coder h5 {
+  color: #e6cd7e;
+  margin-top: 15px;
+}
+
+.column-coder p {
+  padding: 10px;
+  font-family: "Tenor Sans", sans-serif;
+}
+
+.img-portfolio {
+  border-radius: 50px;
+}
+
+.card {
+  border: 2px solid #83a66a;
+  font-size: 20px;
+}
+
+.card:hover {
+  border: 4px solid #bfd65a;
+}
+
+footer {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 30px;
+  color: black;
+}
+
+footer a {
+  padding: 40px;
+}
+
+a {
+  color: black;
+  padding: 10px;
+}
+
+.fa-instagram {
+  color: black;
+}
+
+.link-instagram {
+  font-family: "Caveat", cursive;
+  text-decoration: none;
+  padding: 0;
+}
+
+.col-footer {
+  display: flex;
+}
